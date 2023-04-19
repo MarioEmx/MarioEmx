@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MarioEmx
 - 👀 I’m interested in web development and in contributing to the community of coders.
-- 🌱 I’m currently learning JS Vanilla.
+- 🌱 I’m currently learning React JS.
 - 💞️ I’m looking to collaborate on any projects.
 - 📫 How to reach me mario.rm28cas@gmail.com.
 
